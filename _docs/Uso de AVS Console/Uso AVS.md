@@ -7,7 +7,4 @@ title: Uso AVS
 Tras haberse cargado los permisos necesarios se cargará la interfaz de Aranda VIRTUAL SUPPORT Console:
 
 
-
-![avs_1](styleguide/images/avs_1.png)
-
-
+![avs_1]({{ site.baseurl }}/styleguide/images/avs_1.png)

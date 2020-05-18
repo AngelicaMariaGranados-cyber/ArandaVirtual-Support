@@ -7,7 +7,8 @@ title: Servicio Transferencia de Archivos
 Para transferir un archivo a un agente  o para recibir un archivo desde un agente ubíquese en el listado de agentes en línea, seleccione el agente y presione clic sobre este, enseguida haga clic sobre la función **Transferir Archivos**. Enseguida se cargará la interfaz de transferencia de archivos.
 
 
-![trans_arch__1](styleguide/images/trans_arch__1.png)
+
+![trans_arch__1]({{ site.baseurl }}/styleguide/images/trans_arch__1.png)
 
 
  Una vez haya ingresado la contraseña haga clic en el botón **Iniciar**. Enseguida se cargará la interfaz de control remoto de AVS.

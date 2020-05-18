@@ -7,7 +7,7 @@ title: Ver Opciones
 En la parte superior de la consola podrá observar el botón **_Opciones_**_Enseguida se listarán las siguientes funciones: 
 
 
-![](site.baseurl/styleguide/images/.png)
+![]({{ site.baseurl }}/styleguide/images/.png)
 
 **_Tomar Control Visual_**: Está función le permitirá tomar control únicamente visual del agente es decir el especialista solo podrá observar las acciones que realiza el usuario más no podrá interactuar con la maquina del agente.
 

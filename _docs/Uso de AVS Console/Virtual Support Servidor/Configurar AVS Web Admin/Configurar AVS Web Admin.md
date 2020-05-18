@@ -10,8 +10,6 @@ info:
 
 
 
-
-
  Pruebe si la conexión es correcta, presionando **Test**.
 
 3.    Guarde la configuración presionando **Save**.

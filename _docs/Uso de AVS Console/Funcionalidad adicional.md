@@ -12,7 +12,7 @@ Para realizar la búsqueda de un agente debe tener en cuenta que se debe saber c
 -Enseguida en el listado de agentes haga clic derecho sobre cualquiera de los agentes y seleccione la opción **Buscar Agente**, o en el botón **Iniciar Acción** seleccione la opción **Buscar Agente**, enseguida se cargará el agente.
 
 
-![adicio_1](styleguide/images/adicio_1.png)
+![adicio_1]({{ site.baseurl }}/styleguide/images/adicio_1.png)
 
 
 -En el campo SessionID Digite el id del agente o especialista que desea encontrar. Enseguida haga clic en el botón **Aceptar.**

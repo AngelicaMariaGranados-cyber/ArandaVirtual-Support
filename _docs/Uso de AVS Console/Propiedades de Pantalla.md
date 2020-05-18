@@ -6,9 +6,9 @@ title: Ver Propiedades de Pantalla
 
 En la parte superior de la consola podrá observar el botón [Ver] . Enseguida se listarán las siguientes funciones: 
 
-![falta](styleguide/images/falta.png)
+
+![falta]({{ site.baseurl }}/styleguide/images/falta_1.png)
 
 
- ![propie_2](styleguide/images/propie_2.png)
-
+![propie_2]({{ site.baseurl }}/styleguide/images/propie_2.png)
  
